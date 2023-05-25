@@ -17,10 +17,9 @@ O desafio consiste na criação de um aplicativo que apresente os personagens da
 ## ✨ Demonstração
 
 <p align="center">
-  
-<img src="https://s11.gifyu.com/images/Simulator-Screen-Recording-iPhone-11-2023-05-24-at-19.51.41.gif" alt="Simulator Recording" width="300">
-  
-<img src="https://s11.gifyu.com/images/Simulator-Screen-Recording-iPhone-11-2023-05-24-at-19.56.19.gif" alt="Simulator Recording" width="300">
+
+<img src="/gif1.gif" alt="Simulator Recording" width="300">
+<img src="/gif2.gif" alt="Simulator Recording" width="300">
   
 </p>
 
